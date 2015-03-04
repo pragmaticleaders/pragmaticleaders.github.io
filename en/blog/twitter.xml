@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://pragmaticleaders.com/</id>
   <title>Pragmatic Leaders</title>
-  <updated>2015-01-09T00:00:00Z</updated>
+  <updated>2015-03-04T00:00:00Z</updated>
   <link rel="alternate" href="http://pragmaticleaders.com/"/>
   <link rel="self" href="http://pragmaticleaders.com/en/blog/twitter.xml"/>
   <author>
     <name>Andriy Skuratoff</name>
     <uri>http://pragmaticleaders.com/en</uri>
   </author>
+  <entry>
+    <id>tag:pragmaticleaders.com,2015-03-04:/en/blog/2015/pirate-story/</id>
+    <title type="html">Pirate Story or 3 things to boost conflict in a team</title>
+    <published>2015-03-04T00:00:00Z</published>
+    <updated>2015-03-04T00:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/en/blog/2015/pirate-story/"/>
+    <content type="html">3 things to remember if you want to avoid conflicts in a team. Some pirates were harmed in the making of this post.</content>
+  </entry>
   <entry>
     <id>tag:pragmaticleaders.com,2015-01-09:/en/blog/2015/zlamanyy-instrument-1/</id>
     <title type="html">Broken Tool #1 : consequences</title>
