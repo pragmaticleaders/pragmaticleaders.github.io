@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://pragmaticleaders.com/</id>
+  <title>Pragmatic Leaders</title>
+  <updated>2015-01-09T00:00:00Z</updated>
+  <link rel="alternate" href="http://pragmaticleaders.com/"/>
+  <link rel="self" href="http://pragmaticleaders.com/en/blog/twitter.xml"/>
+  <author>
+    <name>Andriy Skuratoff</name>
+    <uri>http://pragmaticleaders.com/en</uri>
+  </author>
+  <entry>
+    <id>tag:pragmaticleaders.com,2015-01-09:/en/blog/2015/zlamanyy-instrument-1/</id>
+    <title type="html">Broken Tool #1 : consequences</title>
+    <published>2015-01-09T00:00:00Z</published>
+    <updated>2015-01-09T00:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/en/blog/2015/zlamanyy-instrument-1/"/>
+    <content type="html">Large and small problems of ineffective managerial instruments</content>
+  </entry>
+  <entry>
+    <id>tag:pragmaticleaders.com,2014-10-30:/en/blog/2014/mba-in-2-days/</id>
+    <title type="html">MBA in 2 days</title>
+    <published>2014-10-30T03:00:00Z</published>
+    <updated>2014-10-30T03:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/en/blog/2014/mba-in-2-days/"/>
+    <content type="html">Wanna come to the sea when it’s cold and wet? Wanna pay for this around $1000? And how about 2 days MBA program?</content>
+  </entry>
+</feed>
+
