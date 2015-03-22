@@ -63,7 +63,7 @@
 
 					<div id="followme">
 						
-							<a class="awe-btn awe-btn-light subscribe-up" href="#">
+							<a class="awe-btn awe-btn-light subscribe-show" href="#">
 								<i class="fa fa-envelope-square fa-2x"></i>
 							</a>
 						
@@ -242,7 +242,7 @@
 					</a>
 				
 				
-					<a class="awe-btn awe-btn-light subscribe-up pull-right" href="#">
+					<a class="awe-btn awe-btn-light subscribe-show pull-right" href="#">
 						<i class="fa fa-envelope-square fa-2x"></i>
 					</a>
 				
@@ -280,8 +280,8 @@
 			</div>
 		</div>
 
-		<div id="subscribe">
-			<div class="subscribe-down">
+		<div id="subscribe" class="midnight-popup">
+			<div class="subscribe-hide down-button">
 				<i class="fa fa-angle-double-down fa-2x"></i>
 			</div>
 			<div class="content center-block">
@@ -290,13 +290,23 @@
 				<form role="form" class="madmimi digest" data-madmimi-id="124828" data-lang="en">
 					<input type="email" class="form-control email" placeholder="your@email.com">
 					<div class="buttons clearfix">
-						<button class="btn btn-link btn-sm subscribe-down pull-left">not now</button>
-						<button class="btn btn-link btn-sm subscribe-down pull-left">already subscibed</button>
-						<button class="btn btn-primary btn-lg pull-right" type="submit">Subscribe!</button>
+						<button type="button" class="btn btn-link btn-sm subscribe-hide pull-left">not now</button>
+						<button type="button" class="btn btn-link btn-sm subscribe-hide pull-left">already subscibed</button>
+						<button type="submit" class="btn btn-primary btn-lg pull-right">Subscribe!</button>
 					</div>
 				</form>
 			</div>
 		</div>
+
+		<div id="thankyou" class="midnight-popup">
+			<div class="thankyou-hide down-button">
+				<i class="fa fa-angle-double-down fa-2x"></i>
+			</div>
+			<div class="content center-block">
+				<h1>Thank You!</h1>
+			</div>
+		</div>
+
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
