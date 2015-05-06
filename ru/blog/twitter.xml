@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://pragmaticleaders.com/</id>
+  <title>Pragmatic Leaders</title>
+  <updated>2014-10-30T03:00:00Z</updated>
+  <link rel="alternate" href="http://pragmaticleaders.com/"/>
+  <link rel="self" href="http://pragmaticleaders.com/ru/blog/twitter.xml"/>
+  <author>
+    <name>Andriy Skuratoff</name>
+    <uri>http://pragmaticleaders.com/ru</uri>
+  </author>
+  <entry>
+    <id>tag:pragmaticleaders.com,2014-10-30:/ru/blog/2014/mba-za-2-dnya/</id>
+    <title type="html">MBA за 2 дня</title>
+    <published>2014-10-30T03:00:00Z</published>
+    <updated>2014-10-30T03:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/ru/blog/2014/mba-za-2-dnya/"/>
+    <content type="html">Хочешь приехать на море в холодную и мокрую пору? А заплатить за это $1000? А если это 2х дневный курс MBA?</content>
+  </entry>
+</feed>
+
