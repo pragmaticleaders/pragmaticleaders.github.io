@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://pragmaticleaders.com/</id>
   <title>Pragmatic Leaders</title>
-  <updated>2015-01-26T00:00:00Z</updated>
+  <updated>2015-07-28T00:00:00Z</updated>
   <link rel="alternate" href="http://pragmaticleaders.com/"/>
   <link rel="self" href="http://pragmaticleaders.com/uk/blog/twitter.xml"/>
   <author>
     <name>Andriy Skuratoff</name>
     <uri>http://pragmaticleaders.com/uk</uri>
   </author>
+  <entry>
+    <id>tag:pragmaticleaders.com,2015-07-28:/uk/blog/2015/scho-robyty-z-faktamy-i-de-tut-motyvaciya/</id>
+    <title type="html">Що робити з фактами і де тут мотивація</title>
+    <published>2015-07-28T00:00:00Z</published>
+    <updated>2015-07-28T00:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2015/scho-robyty-z-faktamy-i-de-tut-motyvaciya/"/>
+    <content type="html">Факти і цифри - слабкі аргументи перед лицем захоплюючої історії...</content>
+  </entry>
   <entry>
     <id>tag:pragmaticleaders.com,2015-01-26:/uk/blog/2015/zlamanyy-instrument-2/</id>
     <title type="html">Зламаний Інструмент #2 : причини</title>
