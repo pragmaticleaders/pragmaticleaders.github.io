@@ -2,13 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://pragmaticleaders.com/</id>
   <title>Pragmatic Leaders</title>
-  <updated>2016-06-17T00:00:00Z</updated>
+  <updated>2016-07-20T00:00:00Z</updated>
   <link rel="alternate" href="http://pragmaticleaders.com/"/>
   <link rel="self" href="http://pragmaticleaders.com/uk/blog/feed.xml"/>
   <author>
     <name>Andriy Skuratoff</name>
     <uri>http://pragmaticleaders.com/uk</uri>
   </author>
+  <entry>
+    <id>tag:pragmaticleaders.com,2016-07-20:/uk/blog/2016/alcohol-v-dolyni/</id>
+    <title type="html">Алкоголь в Долині</title>
+    <published>2016-07-20T00:00:00Z</published>
+    <updated>2016-07-20T00:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2016/alcohol-v-dolyni/"/>
+    <content type="html">
+&lt;p&gt;Соціальні мережі недавно протролило темою заборони алкоголю в офісах деяких українських ІТ компаній та українських офісах деяких IT компаній.  У зв’язку з цим цікаво подивитися, як це питання вирішують в кібермецці світу — Долині.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/assets/img/MadMenDrinkingInOffice.jpg" alt="Віскі в офісі, кадр з серіалу 'Божевільні'" /&gt;&lt;/p&gt;
+
+&lt;p&gt;І почнемо, звичайно, з Google.  В його регламентах чітко прописано, що споживання алкоголю в офісах не заборонено, якщо не забувати про здоровий глузд.  Зі слів інженерів, в офісах Google завжди багато алкоголю, і якщо задатися такою метою, то завжди знайдеться що випити.  І це навіть не враховуючи декількох тікі-барів, в яких можна роздобути бокальчик вина або віскі.  Інші джерела стверджують, що алкоголь — це частина роботи в Google, а деякі менеджери навіть змушують свої команди випивати.&lt;/p&gt;
+
+&lt;blockquote class="well"&gt;
+  &lt;p&gt;Consumption of alcohol is not banned at our offices, but use good judgment and never drink in a way that leads to impaired performance or inappropriate behavior, endangers the safety of others or violates the law.&lt;/p&gt;
+
+  &lt;p&gt;– – Google Code of Conduct&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Facebook вирізняється своєрідною культурою.  Серед іншого від працівників очікується, що вони будуть тусуватися і випивати разом.  Пивний Теніс — неофіційний вид спорту на Facebook, без якого не обходиться жодна корпоративна подія.&lt;/p&gt;
+
+&lt;p&gt;Ряд технологічних компаній роздають алкоголь в офісі безкоштовно, в рамках свого соціального пакету.  В холодильниках Twitter поруч з безалкогольними напоями завжди є пиво і вино.  В офісі Yelp є спеціальний холодильник, в якому охолоджується 60ти літрова бочечка пива.  Менеджмент OpenDNS притягнув в офіс вінтажний бар і підтримує його заповненим розмаїтим алкоголем.  А Dropbox пропонує своїм працівникам Friday Happy Hour, що більш відомі широкому загалу як Віскі П’ятниці.&lt;/p&gt;
+
+&lt;p&gt;Взагалі, випивка завжди була частиною культури високотехнологічних компаній Долини.  Варто згадати п’ятничні пивні раути в Hewlett-Packard в 50ті.  Або щотижневі “хо-хо”, що досі відбуваються на Genentech.&lt;/p&gt;
+
+&lt;blockquote class="well"&gt;
+  &lt;p&gt;Коли ти весь день важко працюєш головою, і знаєш, що завтра доведеться працювати знову, то що ще зможе урізноманітнити твої ідеї і змусити їх текти в іншій площині, як не віскі.&lt;/p&gt;
+
+  &lt;p&gt;– – Ернест Хемінгуей&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Насправді, розповсюдження алкоголю в технологічних компаніях має багато причин. Це і необхідність заманювати молоді технологічні таланти. І певна компенсація ненормованого робочого графіку, своєрідне вирівнювання балансу роботи і життя. І потреба в креативності, яку алкоголь підвищує (це науково підтверджений факт).  І зняття бар’єрів спілкування між людьми, врешті-решт.&lt;/p&gt;
+
+&lt;p&gt;Але найголовніше, як на мене — це питання довіри.  Джоді Олсон з Twitter висловила цю ідею просто: “Ми ставимося до працівників, як до дорослих, і вони поводяться відповідно.”&lt;/p&gt;
+</content>
+    <summary type="html">Випивка як частина культури високотехнологічних компаній Долини...</summary>
+  </entry>
   <entry>
     <id>tag:pragmaticleaders.com,2016-06-17:/uk/blog/2016/vidpovidalnist-ce-bezvidpovidalno/</id>
     <title type="html">Відповідальність — це безвідповідально</title>
