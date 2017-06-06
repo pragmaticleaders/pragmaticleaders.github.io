@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://pragmaticleaders.com/</id>
   <title>Pragmatic Leaders</title>
-  <updated>2016-07-20T00:00:00Z</updated>
+  <updated>2017-06-07T00:00:00Z</updated>
   <link rel="alternate" href="http://pragmaticleaders.com/"/>
   <link rel="self" href="http://pragmaticleaders.com/uk/blog/twitter.xml"/>
   <author>
     <name>Andriy Skuratoff</name>
     <uri>http://pragmaticleaders.com/uk</uri>
   </author>
+  <entry>
+    <id>tag:pragmaticleaders.com,2017-06-07:/uk/blog/2017/stratagema-5-hrabuvaty-pid-chas-pozhezhi/</id>
+    <title type="html">Стратагема #5: грабувати під час пожежі</title>
+    <published>2017-06-07T00:00:00Z</published>
+    <updated>2017-06-07T00:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2017/stratagema-5-hrabuvaty-pid-chas-pozhezhi/"/>
+    <content type="html">5та класична китайська стратагема</content>
+  </entry>
   <entry>
     <id>tag:pragmaticleaders.com,2016-07-20:/uk/blog/2016/alcohol-v-dolyni/</id>
     <title type="html">Алкоголь в Долині</title>
@@ -80,14 +88,6 @@
     <updated>2015-01-09T00:00:00Z</updated>
     <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2015/zlamanyy-instrument-1/"/>
     <content type="html">Великі і малі проблеми від неробочих управлінських інструментів</content>
-  </entry>
-  <entry>
-    <id>tag:pragmaticleaders.com,2014-10-30:/uk/blog/2014/mba-za-2-dni/</id>
-    <title type="html">MBA за 2 дні</title>
-    <published>2014-10-30T03:00:00Z</published>
-    <updated>2014-10-30T03:00:00Z</updated>
-    <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2014/mba-za-2-dni/"/>
-    <content type="html">Бажаєш приїхати на море в холодну і мокру пору? А заплатити за це $1000? А якщо це 2х денний курс MBA?</content>
   </entry>
 </feed>
 
