@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://pragmaticleaders.com/</id>
   <title>Pragmatic Leaders</title>
-  <updated>2017-06-07T00:00:00Z</updated>
+  <updated>2017-08-25T00:00:00Z</updated>
   <link rel="alternate" href="http://pragmaticleaders.com/"/>
   <link rel="self" href="http://pragmaticleaders.com/uk/blog/twitter.xml"/>
   <author>
     <name>Andriy Skuratoff</name>
     <uri>http://pragmaticleaders.com/uk</uri>
   </author>
+  <entry>
+    <id>tag:pragmaticleaders.com,2017-08-25:/uk/blog/2017/gra-yaka-rozvyvae-strategicne-myslennya-1/</id>
+    <title type="html">Гра яка розвиває стратегічне мислення (ч.1)</title>
+    <published>2017-08-25T00:00:00Z</published>
+    <updated>2017-08-25T00:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2017/gra-yaka-rozvyvae-strategicne-myslennya-1/"/>
+    <content type="html">Чому багато студентів престижних вишів Японії є сильними гравцями ґо?</content>
+  </entry>
   <entry>
     <id>tag:pragmaticleaders.com,2017-06-07:/uk/blog/2017/stratagema-5-hrabuvaty-pid-chas-pozhezhi/</id>
     <title type="html">Стратагема #5: грабувати під час пожежі</title>
@@ -80,14 +88,6 @@
     <updated>2015-01-26T00:00:00Z</updated>
     <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2015/zlamanyy-instrument-2/"/>
     <content type="html">Про лінивий мозок, небезпеку думання і управлінські рішення.</content>
-  </entry>
-  <entry>
-    <id>tag:pragmaticleaders.com,2015-01-09:/uk/blog/2015/zlamanyy-instrument-1/</id>
-    <title type="html">Зламаний Інструмент #1 : наслідки</title>
-    <published>2015-01-09T00:00:00Z</published>
-    <updated>2015-01-09T00:00:00Z</updated>
-    <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2015/zlamanyy-instrument-1/"/>
-    <content type="html">Великі і малі проблеми від неробочих управлінських інструментів</content>
   </entry>
 </feed>
 
