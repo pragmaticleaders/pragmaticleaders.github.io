@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://pragmaticleaders.com/</id>
   <title>Pragmatic Leaders</title>
-  <updated>2017-08-25T00:00:00Z</updated>
+  <updated>2017-09-15T00:00:00Z</updated>
   <link rel="alternate" href="http://pragmaticleaders.com/"/>
   <link rel="self" href="http://pragmaticleaders.com/uk/blog/twitter.xml"/>
   <author>
     <name>Andriy Skuratoff</name>
     <uri>http://pragmaticleaders.com/uk</uri>
   </author>
+  <entry>
+    <id>tag:pragmaticleaders.com,2017-09-15:/uk/blog/2017/gra-yaka-rozvyvae-strategicne-myslennya-2/</id>
+    <title type="html">Гра яка розвиває стратегічне мислення (ч.2)</title>
+    <published>2017-09-15T00:00:00Z</published>
+    <updated>2017-09-15T00:00:00Z</updated>
+    <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2017/gra-yaka-rozvyvae-strategicne-myslennya-2/"/>
+    <content type="html">Як стати майже лівшою?</content>
+  </entry>
   <entry>
     <id>tag:pragmaticleaders.com,2017-08-25:/uk/blog/2017/gra-yaka-rozvyvae-strategicne-myslennya-1/</id>
     <title type="html">Гра яка розвиває стратегічне мислення (ч.1)</title>
@@ -80,14 +88,6 @@
     <updated>2015-08-14T00:00:00Z</updated>
     <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2015/scho-robyty-z-faktamy-i-de-tut-motyvaciya/"/>
     <content type="html">Факти і цифри - слабкі аргументи перед лицем захоплюючої історії...</content>
-  </entry>
-  <entry>
-    <id>tag:pragmaticleaders.com,2015-01-26:/uk/blog/2015/zlamanyy-instrument-2/</id>
-    <title type="html">Зламаний Інструмент #2 : причини</title>
-    <published>2015-01-26T00:00:00Z</published>
-    <updated>2015-01-26T00:00:00Z</updated>
-    <link rel="alternate" href="http://pragmaticleaders.com/uk/blog/2015/zlamanyy-instrument-2/"/>
-    <content type="html">Про лінивий мозок, небезпеку думання і управлінські рішення.</content>
   </entry>
 </feed>
 
